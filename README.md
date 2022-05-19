@@ -16,4 +16,6 @@
 
 <img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fplatform-user-uploads.s3.amazonaws.com%2Fblog%2Fcategory%2Flogo%2F60%2Fsql.png&f=1&nofb=1" alt="SQL logo" /> SQL
 
-<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/96px-Ruby_logo.svg.png" alt="Ruby logo" /> Ruby
+<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/96px-Ruby_logo.svg.png" alt="Ruby logo" /> Ruby (ish)
+
+<img width="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Logo_of_the_Haskell_programming_language.svg/375px-Logo_of_the_Haskell_programming_language.svg.png" alt="Haskell logo" /> Haskell (once)
