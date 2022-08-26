@@ -11,6 +11,8 @@
 
 <img width="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/182px-Java_programming_language_logo.svg.png" alt="Java logo" /> Java
 
+<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Javascript-736400_960_720.png/180px-Javascript-736400_960_720.png" alt="JavaScript logo" /> JavaScript
+
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="C logo" /> C
 
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/121px-Scala-full-color.svg.png" alt="Scala logo" /> Scala2/3
