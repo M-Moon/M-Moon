@@ -19,7 +19,7 @@
 
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" alt="Linux logo" /> Linux
 
-<img width="20" src="[https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/375px-MongoDB_Logo.svg.png)" alt="MongoDB logo" /> MongoDB
+<img width="20" src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress)" alt="MongoDB logo" /> MongoDB
 
 <img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fplatform-user-uploads.s3.amazonaws.com%2Fblog%2Fcategory%2Flogo%2F60%2Fsql.png&f=1&nofb=1" alt="SQL logo" /> SQL / SQLite
 
