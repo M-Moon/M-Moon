@@ -3,9 +3,6 @@
 <h3 align="center">Hello!</h1>
 <br>
 
-<p align="center">I'm Joe, a computer science graduate from Lancaster University</p>
-<p align="center">You'll find here some of my personal programming projects and contributions</p>
-
 ## Technology Experience
 <img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon.png&f=1&nofb=1" alt="Python logo" /> Python
 
